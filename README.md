@@ -17,7 +17,8 @@ This project provides an AI-powered solution for extracting text content from PD
 First, create a new conda environment with Python:
 
 ```bash
-conda create -n pdf-extraction python=3.8
+# You can use higher python version
+conda create -n pdf-extraction python=3.11
 conda activate pdf-extraction
 ```
 
