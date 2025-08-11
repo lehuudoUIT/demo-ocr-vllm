@@ -1,0 +1,6 @@
+PyMuPDF
+fitz
+openai
+python-dotenv
+requests
+tqdm
